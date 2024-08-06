@@ -83,8 +83,8 @@ if (len(client_output) == 3):
 
 If you need support using this microservice please contact the developer at deckecha@oregonstate.edu.
 
-[UML Diagram for Microservice](UML Diagram.png)
-
+UML Diagram for Microservice:
+https://github.com/ChristinaDec/microserviceCurrency/blob/main/UML%20Diagram.png
 
 
 
